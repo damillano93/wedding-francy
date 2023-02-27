@@ -317,12 +317,12 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover {
-    height: 600px;
+    height: 100px;
   }
 }
 .fh5co-cover .display-t,
 .fh5co-cover .display-tc {
-  height: 900px;
+  height: 200px;
   display: table;
   width: 100%;
 }
@@ -1180,7 +1180,7 @@ form label {
   font-size: 60px;
   margin-bottom: 10px;
   line-height: 1.5;
-  font-weight: bold;
+  font-weight: normal;
   color: #7e1010;
   font-family: "Sacramento", Arial, serif;
 }
@@ -1841,3 +1841,12 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+video {
+  width: 100%;
+  height: auto;
+}
+
+iframe{
+  width: 100%;
+  height: auto;
+}
