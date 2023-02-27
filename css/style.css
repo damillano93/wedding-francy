@@ -446,6 +446,13 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 30px;
 }
 
+#fh5co-counter .event-wrap .event-col-2,
+#fh5co-event .event-wrap .event-col-2 {
+
+  float: left;
+  margin-bottom: 30px;
+}
+
 #fh5co-counter {
   height: 600px;
 }
